@@ -2,9 +2,9 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Visualização de dados
 
-Turma Online X | X-end | Semana X | 202X | Professora X
+Turma Online On34 | Python | Semana 15 | 2024 | <a href="https://www.linkedin.com/in/julianavtal/" target="_blank" rel="noopener noreferrer">Professora Juliana Vital</a>
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
